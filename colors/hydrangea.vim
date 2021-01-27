@@ -12,8 +12,8 @@ let g:colors_name = 'hydrangea'
 
 set background=dark
 
-hi Normal ctermfg=252 ctermbg=235 guifg=#92998d guibg=#15161a
-hi EndOfBuffer ctermfg=252 ctermbg=235 guifg=#24262e guibg=#15161a
+hi Normal ctermfg=252 ctermbg=235 guifg=#92998d guibg=#1e1c31
+hi EndOfBuffer ctermfg=252 ctermbg=235 guifg=#24262e guibg=#1e1c31
 hi Cursor ctermfg=NONE ctermbg=255 cterm=NONE guifg=NONE guibg=#edf5ff gui=NONE
 hi CursorIM ctermfg=NONE ctermbg=255 guifg=NONE guibg=#edf5ff
 hi CursorLine ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#2a303b gui=NONE
@@ -26,7 +26,7 @@ hi Title ctermfg=162 ctermbg=NONE cterm=NONE guifg=#e242ac guibg=NONE gui=NONE
 hi StatusLine ctermfg=252 ctermbg=238 cterm=NONE guifg=#c3d5ec guibg=#3b4351 gui=NONE
 hi StatusLineNC ctermfg=241 ctermbg=236 cterm=NONE guifg=#586374 guibg=#2a303b gui=NONE
 hi VertSplit ctermfg=236 ctermbg=236 cterm=NONE guifg=#2a303b guibg=#2a303b gui=NONE
-hi LineNr ctermfg=241 ctermbg=236 cterm=NONE guifg=#586374 guibg=#1e222c gui=NONE
+hi LineNr ctermfg=241 ctermbg=236 cterm=NONE guifg=#565575 guibg=#100E23 gui=NONE
 hi CursorLineNr ctermfg=255 ctermbg=241 cterm=NONE guifg=#edf5ff guibg=#586374 gui=NONE
 hi SpecialKey ctermfg=44 ctermbg=44 cterm=NONE guifg=#434c5e guibg=NONE gui=NONE
 hi NonText ctermfg=241 ctermbg=235 cterm=NONE guifg=#434c5e guibg=NONE gui=NONE
@@ -72,7 +72,7 @@ hi diffAdded guifg=#50a14f  guibg=#15161a  ctermfg=71   ctermbg=17  cterm=NONE
 hi diffRemoved guifg=#e45649  guibg=#15161a  ctermfg=166  ctermbg=17
 hi Directory ctermfg=44 cterm=NONE guifg=#36c2c2 gui=NONE
 hi ErrorMsg ctermfg=197 ctermbg=NONE cterm=NONE guifg=#e91e63 guibg=NONE gui=NONE
-hi SignColumn ctermfg=252 ctermbg=236 cterm=NONE guifg=#c3d5ec guibg=#1e222c gui=NONE
+hi SignColumn ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi MoreMsg ctermfg=68 cterm=NONE guifg=#537dd5 gui=NONE
 hi ModeMsg cterm=NONE gui=NONE
 hi Question cterm=NONE guifg=fg gui=NONE
