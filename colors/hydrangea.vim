@@ -79,11 +79,11 @@ hi Question cterm=NONE guifg=fg gui=NONE
 hi WarningMsg ctermfg=197 cterm=NONE guifg=#e91e63 gui=NONE
 hi WildMenu ctermfg=255 ctermbg=241 cterm=NONE guifg=#edf5ff guibg=#586374 gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=52 cterm=NONE guifg=NONE guibg=#681c36 gui=NONE
-hi GitGutterAdd ctermfg=44 ctermbg=236 cterm=NONE guifg=#596e49 guibg=#1e222c gui=bold
-hi GitGutterChange ctermfg=162 ctermbg=236 cterm=NONE guifg=#70693f guibg=#1e222c gui=bold
-hi GitGutterDelete ctermfg=162 ctermbg=236 cterm=NONE guifg=#ba4750 guibg=#1e222c gui=bold
-hi ALEErrorSign guifg=#e06c75 guibg=#1e222c
-hi ALEWarningSign guifg=#e5c07b guibg=#1e222c
+hi GitGutterAdd ctermfg=44 ctermbg=236 cterm=NONE guifg=#596e49 guibg=#100E23 gui=bold
+hi GitGutterChange ctermfg=162 ctermbg=236 cterm=NONE guifg=#70693f guibg=#100E23 gui=bold
+hi GitGutterDelete ctermfg=162 ctermbg=236 cterm=NONE guifg=#ba4750 guibg=#100E23 gui=bold
+hi ALEErrorSign guifg=#e06c75 guibg=#100E23
+hi ALEWarningSign guifg=#e5c07b guibg=#100E23
 
 hi! link nixParen Delimiter
 hi! link nixListBracket Delimiter
