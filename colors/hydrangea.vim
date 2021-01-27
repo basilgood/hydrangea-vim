@@ -23,7 +23,7 @@ hi VisualNOS cterm=underline guifg=fg gui=underline
 hi Folded ctermfg=252 ctermbg=236 cterm=NONE guifg=#c3d5ec guibg=#2a303b gui=NONE
 hi FoldColumn ctermfg=252 ctermbg=235 cterm=NONE guifg=#c3d5ec guibg=#1e222c gui=NONE
 hi Title ctermfg=162 ctermbg=NONE cterm=NONE guifg=#e242ac guibg=NONE gui=NONE
-hi StatusLine ctermfg=252 ctermbg=238 cterm=NONE guifg=#c3d5ec guibg=#38274c gui=NONE
+hi StatusLine ctermfg=252 ctermbg=238 cterm=NONE guifg=#b390db guibg=#38274c gui=NONE
 hi StatusLineNC ctermfg=241 ctermbg=236 cterm=NONE guifg=#586374 guibg=#2a303b gui=NONE
 hi VertSplit ctermfg=236 ctermbg=236 cterm=NONE guifg=#2a303b guibg=#2a303b gui=NONE
 hi LineNr ctermfg=241 ctermbg=236 cterm=NONE guifg=#565575 guibg=#100E23 gui=NONE
