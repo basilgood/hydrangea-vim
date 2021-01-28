@@ -27,7 +27,7 @@ hi StatusLine ctermfg=252 ctermbg=238 cterm=NONE guifg=#b390db guibg=#38274c gui
 hi StatusLineNC ctermfg=241 ctermbg=236 cterm=NONE guifg=#586374 guibg=#2a303b gui=NONE
 hi VertSplit ctermfg=236 ctermbg=236 cterm=NONE guifg=#2a303b guibg=#2a303b gui=NONE
 hi LineNr ctermfg=241 ctermbg=236 cterm=NONE guifg=#565575 guibg=#100E23 gui=NONE
-hi CursorLineNr ctermfg=255 ctermbg=241 cterm=NONE guifg=#edf5ff guibg=#586374 gui=NONE
+hi CursorLineNr ctermfg=255 ctermbg=241 cterm=NONE guifg=#edf5ff guibg=#1e1c31 gui=NONE
 hi SpecialKey ctermfg=44 ctermbg=44 cterm=NONE guifg=#434c5e guibg=NONE gui=NONE
 hi NonText ctermfg=241 ctermbg=235 cterm=NONE guifg=#434c5e guibg=NONE gui=NONE
 hi MatchParen ctermfg=197 ctermbg=NONE cterm=reverse guifg=#100E23 guibg=#ddc34f gui=reverse,bold
