@@ -30,7 +30,7 @@ hi LineNr ctermfg=241 ctermbg=236 cterm=NONE guifg=#565575 guibg=#100E23 gui=NON
 hi CursorLineNr ctermfg=255 ctermbg=241 cterm=NONE guifg=#edf5ff guibg=#586374 gui=NONE
 hi SpecialKey ctermfg=44 ctermbg=44 cterm=NONE guifg=#434c5e guibg=NONE gui=NONE
 hi NonText ctermfg=241 ctermbg=235 cterm=NONE guifg=#434c5e guibg=NONE gui=NONE
-hi MatchParen ctermfg=197 ctermbg=NONE cterm=NONE guifg=#100E23 guibg=#ddc34f gui=reverse,bold
+hi MatchParen ctermfg=197 ctermbg=NONE cterm=reverse guifg=#100E23 guibg=#ddc34f gui=reverse,bold
 hi Delimiter ctermfg=94 guifg=#6b4f22
 hi Comment ctermfg=241 cterm=NONE guifg=#586374 gui=NONE
 hi Constant ctermfg=44 ctermbg=23 cterm=NONE guifg=#36c2c2 gui=NONE
