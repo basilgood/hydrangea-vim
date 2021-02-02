@@ -106,3 +106,22 @@ hi! link jsModuleBraces Delimiter
 hi! link jsNoise Statement
 hi! link jsFunction Statement
 hi! link jsxBraces Delimiter
+
+let g:terminal_ansi_colors = [
+      \ '#002b36',
+      \ '#dc322f',
+      \ '#859900',
+      \ '#b58900',
+      \ '#268bd2',
+      \ '#6c71c4',
+      \ '#2aa198',
+      \ '#93a1a1',
+      \ '#657b83',
+      \ '#dc322f',
+      \ '#859900',
+      \ '#b58900',
+      \ '#268bd2',
+      \ '#6c71c4',
+      \ '#2aa198',
+      \ '#fdf6e3',
+      \ ]
