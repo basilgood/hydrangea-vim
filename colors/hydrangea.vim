@@ -44,7 +44,7 @@ hi PreProc ctermfg=183 cterm=NONE guifg=#a154ae gui=NONE
 hi Type ctermfg=162 cterm=NONE guifg=#4566b0 gui=NONE
 hi StorageClass ctermfg=68 cterm=NONE guifg=#537dd5 gui=NONE
 hi Structure ctermfg=162 cterm=NONE guifg=#e242ac gui=NONE
-hi String guifg=#79a87e  ctermfg=65
+hi String guifg=#257a54  ctermfg=65
 hi Typedef ctermfg=68 cterm=NONE guifg=#537dd5 gui=NONE
 hi Special ctermfg=111 ctermbg=NONE cterm=NONE guifg=#AB4832 guibg=NONE gui=NONE
 hi Underlined cterm=underline guifg=fg gui=underline
