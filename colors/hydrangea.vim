@@ -33,7 +33,7 @@ hi NonText ctermfg=241 ctermbg=235 cterm=NONE guifg=#434c5e guibg=NONE gui=NONE
 hi MatchParen ctermfg=197 ctermbg=NONE cterm=reverse guifg=#100E23 guibg=#ddc34f gui=reverse,bold
 hi Delimiter ctermfg=94 guifg=#6b4f22
 hi Comment ctermfg=241 cterm=NONE guifg=#586374 gui=NONE
-hi Constant ctermfg=44 ctermbg=23 cterm=NONE guifg=#36c2c2 gui=NONE
+hi Constant ctermfg=44 ctermbg=23 cterm=NONE guifg=#933c83 gui=NONE
 hi Number ctermfg=23 ctermbg=44 cterm=NONE guifg=#964787 gui=NONE
 hi Identifier ctermfg=255 cterm=NONE guifg=#3295ab gui=NONE
 hi Function ctermfg=255 cterm=NONE guifg=#417eba gui=NONE
